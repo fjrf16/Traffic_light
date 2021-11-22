@@ -16,7 +16,7 @@ To test the code if you use gitpod you can use the following steps:
 
 ### *) How i initiate it?
 
-1) `git clone https://github.com/fjrf16/Traffic-Light.git`
+1) `git clone https://github.com/fjrf16/Traffic_Light.git`
 2) `npm install`
 3) `npm run start`
 
